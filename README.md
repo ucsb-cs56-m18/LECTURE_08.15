@@ -6,6 +6,7 @@ Today we started by looking by discussing [Ant](https://ucsb-cs56-pconrad.github
 Some of that material is discussed here:
 
 * <https://ucsb-cs56-pconrad.github.io/tutorials/rational_ex12/>
+* <https://ucsb-cs56-pconrad.github.io/tutorials/rational_ex13/>
 
 # Test Case Coverage
 
