@@ -29,4 +29,5 @@ We referenced the Javadoc for:
 * the [`.equals()` method of `java.lang.Object`](https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html#equals-java.lang.Object-)
 * the [`.hashCode()` method of `java.lang.Object`](https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html#hashCode--)
 
-More on that next time.
+More on that next time.  In this meantime, a good summary is here: 
+* <https://ucsb-cs56-pconrad.github.io/topics/java_double_equals_vs_dot_equals/>
