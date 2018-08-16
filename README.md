@@ -21,7 +21,7 @@ Some of that material is discussed here:
 
 * [Version 12 of the Rational Tutorial](https://ucsb-cs56-pconrad.github.io/tutorials/rational_ex12/) has only moderately good test case coverage, as seen in [this report]()
 
-* [Version 12 of the Rational Tutorial](https://ucsb-cs56-pconrad.github.io/tutorials/rational_ex12/) has only moderately good test case coverage, as seen in [this report]()
+* [Version 13 of the Rational Tutorial](https://ucsb-cs56-pconrad.github.io/tutorials/rational_ex13/) has improved test case coverage, as seen in [this report]()
 
 # We started discussing `==` vs. `.equals()`, and `.hashCode()`
 
